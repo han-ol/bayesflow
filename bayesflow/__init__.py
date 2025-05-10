@@ -1,3 +1,5 @@
+print("local BayesFlow")
+
 from . import (
     approximators,
     adapters,
