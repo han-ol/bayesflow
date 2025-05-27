@@ -10,6 +10,7 @@ from . import (
     utils,
     workflows,
     wrappers,
+    scores,
 )
 
 from .adapters import Adapter
